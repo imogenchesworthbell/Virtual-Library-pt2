@@ -1,0 +1,24 @@
+{
+  "name": "virtual-library",
+  "version": "1.0.0",
+  "description": "You're building a virtual library app, and you need to create a set of classes to represent different types of media. You'll have books, movies, and music, each with their own unique properties. You'll need to create a base class for all media, and several subclasses for specific types of media. You'll also need to create a static method to keep track of the total number of media items in the library.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiverseLearningProducts/Virtual-Library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiverseLearningProducts/Virtual-Library/issues"
+  },
+  "homepage": "https://github.com/MultiverseLearningProducts/Virtual-Library#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
